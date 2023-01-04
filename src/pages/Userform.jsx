@@ -214,7 +214,7 @@
     </div>
          
                 
-            <button className='w-full me-2 p-3 bg-button text-white rounded-2xl shadow-xl bg-[#1f001e] hover:bg-[#5e0255] '>Sign Up</button>
+            <button className='w-full me-2 p-3 text-white rounded-2xl shadow-xl bg-[#1f001e] hover:bg-[#5e0255] '>Sign Up</button>
           </form>
           
         </div>  
